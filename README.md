@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Timurs (@19383562965)
+- 👀 I’m interested in learning programming languages and sports
+- 🌱 I’m currently learning js and python
+- 💞️ I’m looking to collaborate on website ui projects
+- 📫 Contact: timurs.koleda@gmail.com
