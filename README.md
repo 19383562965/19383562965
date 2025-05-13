@@ -3,7 +3,7 @@
 
 **Activity:**
 
-[![Top Langs]([https://github-readme-stats.vercel.app/api/top-langs/?username=19383562965)
+https://stats.justsong.cn/api/github?username=songquanpeng
 
 **Skill:**
 
