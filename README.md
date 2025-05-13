@@ -5,8 +5,8 @@
 
 **Skill:**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+## [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 
 **Learning:**
 
-[![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
+## [![My Skills](https://skillicons.dev/icons?i=js,py)](https://skillicons.dev)
