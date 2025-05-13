@@ -1,3 +1,3 @@
 # 👋Hi, my name is Timurs!
 <p>Student</p>
--Location: Luxembourg
+<p style='align-text: center;'>Location: Luxembourg</p>
