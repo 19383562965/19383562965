@@ -1,10 +1,6 @@
 # 👋Hi, my name is Timurs!
 <p>Student</p>
 
-**Activity:**
-
-https://stats.justsong.cn/api/github?19383562965=songquanpeng
-
 **Skill:**
 
 ## [![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
