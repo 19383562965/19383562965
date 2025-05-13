@@ -1,7 +1,7 @@
 # 👋Hi, my name is Timurs!
 <p>Student</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19383562965)](https://github.com/19383562965/github-readme-stats)
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19383562965)](https://github.com/19383562965/github-readme-stats)
 
 **Skill:**
 
