@@ -1,4 +1,16 @@
-<div style="border: 1px solid #ccc; padding: 10px; background-color: #f9f9f9; border-radius: 5px;">
-  <h3>This is a Box</h3>
-  <p>This text is inside the box. You can add more content here.</p>
+# 👋 Hello there!
+
+<font color="green">Welcome to my GitHub profile!</font>
+
+<br>
+
+<div style="border: 2px solid #007bff; padding: 15px; background-color: #e6f7ff; border-radius: 8px;">
+  <h2>About Me</h2>
+  <p>I'm a passionate developer interested in <mark>web development</mark> and <font color="#ff6b6b">data science</font>.</p>
+  <ul>
+    <li>Currently learning: Python</li>
+    <li>Open to collaboration!</li>
+  </ul>
 </div>
+
+<br>
