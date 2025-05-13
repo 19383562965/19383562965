@@ -3,4 +3,6 @@
 - 🌱 I’m currently learning js and python
 - 💞️ I’m looking to collaborate on website ui projects
 - 📫 Contact: timurs.koleda@gmail.com
-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?19383562965=alexdoe&show_icons=true&theme=radical)
+![19383562965's GitHub stats](https://github-readme-stats.vercel.app/api?username=19383562965&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=19383562965&layout=compact&theme=tokyonight)
