@@ -2,7 +2,7 @@
 ## Age: 15
 <p>Student</p>
 
-**Skill:**
+**Skills:**
 
 ## [![My Skills](https://skillicons.dev/icons?i=html,css,js,python)](https://skillicons.dev)
 
