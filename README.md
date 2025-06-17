@@ -1,4 +1,4 @@
-# 👋Hi, my name is Temu!
+# 👋Hi, my name is Timurs!
 ## Age: 15
 <p>Student</p>
 
